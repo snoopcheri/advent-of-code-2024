@@ -1,3 +1,4 @@
-import aoc2024.p1.Puzzle1 as p1
+from p1 import Puzzle1
+from p2 import Puzzle2
 
-p1.solve2()
+Puzzle2.solve1()
